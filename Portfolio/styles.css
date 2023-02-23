@@ -6,5 +6,9 @@ body {
 }
 
 .font-primary {
-    color:darkolivegreen
+    color:forestgreen
+}
+.title-icon {
+    font-size:20px;
+    font-weight:bold;
 }
