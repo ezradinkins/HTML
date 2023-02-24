@@ -9,6 +9,46 @@ body {
     color:forestgreen
 }
 .title-icon {
-    font-size:20px;
+    font-size:30px;
     font-weight:bold;
+}
+/*********
+ABOUT
+*********/
+#about {
+    margin: 60px auto;
+    max-width: 400px;
+    text-align: center;
+}
+#about img {
+    border-radius: 50%;
+    width: 120px;
+    margin-bottom: 10px;
+
+}
+#about .name {
+    font-size: 19px;
+
+}
+#about .vocation {
+    font-size: 17px;
+    color: #A8A8AB;
+    margin-bottom: 10px;
+}
+#about .skills {
+    font-size: 14px;
+    color: forestgreen;
+    margin-bottom: 10px auto;
+
+}
+#about .email {
+    margin-top: 14px;
+    font-size: 19px;
+}
+#about .icons {
+    margin-top: 20px;
+    font-size: 30px;
+}
+#about .icons a{
+    color: rgb(85, 85, 85);
 }
