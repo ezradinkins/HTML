@@ -6,11 +6,25 @@ body {
 }
 
 .font-primary {
-    color:forestgreen
+    color:rgb(121, 193, 121)
 }
 .title-icon {
     font-size:30px;
     font-weight:bold;
+}
+p {
+    font-size: 14px;
+}
+p {
+    font-size: 14px;
+}
+h2 {
+    font-weight: bold;
+    font-size: 23px;
+    margin-bottom: 20px;
+}
+a.font-black {
+    color: #000 !important
 }
 /*********
 ABOUT
@@ -37,13 +51,13 @@ ABOUT
 }
 #about .skills {
     font-size: 14px;
-    color: forestgreen;
+    color: rgb(121, 193, 121);
     margin-bottom: 10px auto;
 
 }
 #about .email {
     margin-top: 14px;
-    font-size: 19px;
+    font-size: 15px;
 }
 #about .icons {
     margin-top: 20px;
@@ -51,4 +65,21 @@ ABOUT
 }
 #about .icons a{
     color: rgb(85, 85, 85);
+}
+/*********
+PROJECTS
+*********/
+
+#projects {
+    margin: 60px auto;
+    width: 80%;
+}
+#projects h2 {
+    text-align: center;
+}
+#projects .card {
+    width: 100%;
+}
+#projects .card-title {
+    font-weight: bold;
 }
